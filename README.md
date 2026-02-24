@@ -3,10 +3,15 @@
 > **Vietnamese title:** Thiết kế mạng cảm biến không dây giám sát nhiệt độ và độ ẩm trên các cánh đồng diện tích 100 hecta
 
 **Course:** EE4552  Wireless Sensor Network 20251 
+
 **Institution:** School of Electrical and Electronics Engineering, Hanoi University of Science and Technology (HUST)  
+
 **Supervisor:** Assoc. Prof. Lê Minh Thùy  Measurement Engineering & Industrial Informatics Group  
-**Team (Group 5):** Nguyễn Trung Kiên (20210500)  Vũ Quang Nhật Hải (20222125)  Nguyễn Anh Tú (20222423)  
+
+**Team (Group 5):** Nguyễn Trung Kiên (20210500)  Vũ Quang Nhật Hải (20222125)  Nguyễn Anh Tú (20222423) 
+
 **Final Score:** Process 10/10  Final Exam 10/10  **Grade: A+**
+
 **Demo Video:** https://www.youtube.com/watch?v=HvIljYlBAPk&feature=youtu.be
 ---
 
