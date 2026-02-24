@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# STM32CubeIDE build output
+WSN_LoRa_Firmware/WSN_sensor_node/Debug/
+WSN_LoRa_Firmware/WSN_relay_node/Debug/
+WSN_LoRa_Firmware/WSN_gateway_node/Debug/
+
+# PlatformIO build
+WSN_LoRa_Firmware/WSN_gateway_forward/.pio/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
