@@ -137,7 +137,7 @@ Final testing was conducted in three scenarios covering the complete node lifecy
 | Latency and node capacity (100 nodes, <30 s) | 10 / 10 |
 | Software and dashboard interface | 10 / 10 |
 | Threshold alerts and remote configuration | 10 / 10 |
-| Advanced features (OTA update, adaptive duty cycle) | 0 / 10 (not implemented) |
+| Advanced features (OTA update, adaptive duty cycle) | 5 / 10 (OTA not implemented) |
 | Deployment plan and timeline compliance | 10 / 10 |
 
 ### Key Technical Achievements
