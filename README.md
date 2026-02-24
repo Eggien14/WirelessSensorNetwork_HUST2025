@@ -12,7 +12,10 @@
 
 **Final Score:** Process 10/10  Final Exam 10/10  **Grade: A+**
 
+**Video demo:**
+
 [![Xem video demo dự án](https://img.youtube.com/vi/HvIljYlBAPk/0.jpg)](https://www.youtube.com/watch?v=HvIljYlBAPk)
+
 ---
 
 ## 1. Project Background and Motivation
